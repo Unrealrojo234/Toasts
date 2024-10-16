@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="send_message">Generate</string>
+    <string name="app_name">Learning Java\n</string>
+    <string name="title">Random Number Generator</string>
+</resources>
